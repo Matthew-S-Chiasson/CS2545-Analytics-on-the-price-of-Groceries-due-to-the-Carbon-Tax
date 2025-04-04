@@ -1,0 +1,45 @@
+﻿"Consumer Price Index, annual average, not seasonally adjusted 1 2 3"
+"Frequency: Annual"
+"Table: 18-10-0005-01 (formerly CANSIM 326-0021)"
+"Release date: 2025-01-21"
+"Geography: Canada, Province or territory, Census subdivision, Census metropolitan area, Census metropolitan area part"
+""
+""
+
+"Geography","Canada",,,,,
+"Products and product groups 4","2009","2010","2011","2012","2013","2014"
+,"2002=100",,,,,
+"All-items","114.4","116.5","119.9","121.7","122.8","125.2"
+"Food 5","121.4","123.1","127.7","130.8","132.4","135.5"
+"Shelter 6","121.6","123.3","125.6","127.1","128.7","132.2"
+"Household operations, furnishings and equipment","107.3","108.8","110.9","113.0","114.4","116.6"
+"Clothing and footwear","93.4","91.6","91.9","92.0","92.1","93.2"
+"Transportation","113.1","118.0","125.6","128.1","129.0","130.4"
+"Gasoline","135.8","148.2","177.8","182.3","183.4","183.8"
+"Health and personal care","112.1","115.1","117.1","118.7","118.3","119.0"
+"Recreation, education and reading","103.1","104.0","105.3","105.9","106.2","107.4"
+"Alcoholic beverages, tobacco products and recreational cannabis","130.7","133.1","135.6","137.6","140.4","146.6"
+"All-items excluding food and energy 7","111.5","112.9","114.7","116.2","117.2","119.0"
+"All-items excluding energy 7","113.3","114.8","117.0","118.8","119.9","122.0"
+"Energy 7","129.2","137.8","154.7","157.3","159.6","165.3"
+"Goods 8","107.6","109.2","112.9","114.0","114.6","116.5"
+"Services 9","121.2","123.7","126.7","129.3","131.0","133.7"
+
+
+
+
+Footnotes:
+1,"The Consumer Price Index (CPI) is not a cost-of-living index. The objective behind a cost-of-living index is to measure changes in expenditures necessary for consumers to maintain a constant standard of living. The idea is that consumers would normally switch between products as the price relationship of goods changes. If, for example, consumers get the same satisfaction from drinking tea as they do from coffee, then it is possible to substitute tea for coffee if the price of tea falls relative to the price of coffee. The cheaper of the interchangeable products may be chosen. We could compute a cost-of-living index for an individual if we had complete information about that person's taste and spending habits. To do this for a large number of people, let alone the total population of Canada, is impossible. For this reason, regularly published price indexes are based on the fixed-basket concept rather than the cost-of-living concept."
+2,"This table replaces table 18-10-0009-01 which was archived with the release of April 2007 data."
+3,"From April 2020 to November 2021, and from January 2022 to February 2022, certain sub-indexes and components thereof were imputed using special approaches in either one, or more months. The affected indexes include child care services; housekeeping services; air transportation; personal care services; recreational services; travel tours; spectator entertainment; use of recreational facilities and services; beer served in licensed establishments; wine served in licensed establishments, and liquor served in licensed establishments. The details of these treatments from April 2020 to March 2021 are provided in technical supplements available through the <a href="https://www150.statcan.gc.ca/n1/en/catalogue/62F0014M" rel="external noopener noreferrer" target="_blank">Prices Analytical Series (opens new window)</a>. Starting in April 2021, details and treatments are available upon request by contacting the <a href="mailto:statcan.cpddisseminationunit-dpcunitedediffusion.statcan@statcan.gc.ca" rel="external noopener noreferrer" target="_blank">Consumer Prices Division (opens new window)</a>."
+4,"The goods and services that make up the Consumer Price Index (CPI) are organized according to a hierarchical structure with the "all-items CPI" as the top level. Eight major components of goods and services make up the "all-items CPI". They are: "food", "shelter", "household operations, furnishings and equipment", "clothing and footwear", "transportation", "health and personal care", "recreation, education and reading", and "alcoholic beverages, tobacco products and recreational cannabis". These eight components are broken down into a varying number of sub-groups which are in turn broken down into other sub-groups. Indents are used to identify the components that make up each level of aggregation. For example, the eight major components appear with one indent relative to the "all-items CPI" to show that they are combined to obtain the "all-items CPI". NOTE: Some items are recombined outside the main structure of the CPI to obtain special aggregates such as "all-items excluding food and energy", "energy", "goods", "services", or "fresh fruit and vegetables". They are listed after the components of the main structure of the CPI following the last major component entitled "alcoholic beverages, tobacco products and recreational cannabis"."
+5,"Food includes non-alcoholic beverages."
+6,"Part of the increase first recorded in the shelter index for Yellowknife for December 2004 inadvertently reflected rent increases that actually occurred earlier. As a result, the change in the shelter index was overstated in December 2004, and was understated in the previous two years. The shelter index series for Yellowknife has been corrected from December 2002. In addition, the Yellowknife All-items consumer price index (CPI) and some Yellowknife special aggregate index series have also changed. Data for Canada and all other provinces and territories were not affected."
+7,"The special aggregate "energy" includes: "electricity", "natural gas", "fuel oil and other fuels", "gasoline", and "fuel, parts and accessories for recreational vehicles"."
+8,"Goods are physical or tangible commodities usually classified according to their life span into non-durable goods, semi-durable goods and durable goods. Non-durable goods are those goods that can be used up entirely in less than a year, assuming normal usage. For example, fresh food products, disposable cameras and gasoline are non-durable goods. Semi-durable goods are those goods that may last less than 12 months or greater than 12 months depending on the purpose to which they are put. For example, clothing, footwear and household textiles are semi-durable goods. Durable goods are those goods which may be used repeatedly or continuously over more than a year, assuming normal usage. For example, cars, audio and video equipment and furniture are durable goods."
+9,"A service in the Consumer Price Index (CPI) is characterized by valuable work performed by an individual or organization on behalf of a consumer, for example, car tune-ups, haircuts and city public transportation. Transactions classified as a service may include the cost of goods by their nature. Examples include food in restaurant food services and materials in clothing repair services."
+
+
+
+"How to cite: Statistics Canada. Table 18-10-0005-01  Consumer Price Index, annual average, not seasonally adjusted"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000501
