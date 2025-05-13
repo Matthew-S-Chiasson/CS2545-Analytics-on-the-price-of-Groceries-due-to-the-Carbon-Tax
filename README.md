@@ -32,3 +32,12 @@ This project analyzes the effects and patterns surrounding **carbon tax policies
 - Summary statistics and aggregate insights
 
 ---
+
+## 📊 Sample Visualizations
+
+### 1. Comparison between Actual vs Expected Producer Price Index (PPI)
+
+![Emissions and Tax](https://github.com/zynsniper/Analytics-on-the-price-of-Groceries-due-to-the-Carbon-Tax/blob/main/.ipynb_checkpoints/ActualvsExpectedPPI.png)
+
+---
+
