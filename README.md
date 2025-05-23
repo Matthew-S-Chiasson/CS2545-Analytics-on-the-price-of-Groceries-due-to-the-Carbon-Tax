@@ -37,7 +37,10 @@ This project analyzes the effects and patterns surrounding **carbon tax policies
 
 ### 1. Comparison between Actual vs Expected Producer Price Index (PPI)
 
-![Emissions and Tax](https://github.com/zynsniper/Analytics-on-the-price-of-Groceries-due-to-the-Carbon-Tax/blob/main/.ipynb_checkpoints/ActualvsExpectedPPI.png)
+![Emissions and Tax](https://github.com/zynsniper/Analytics-on-the-price-of-Groceries-due-to-the-Carbon-Tax/blob/main/Thumbnails/ActualvsExpectedPPI.png)
+
+### 2. Percentage change of CPI between two time periods
+![CPI Percentage Change](https://github.com/zynsniper/Analytics-on-the-price-of-Groceries-due-to-the-Carbon-Tax/blob/main/Thumbnails/PercentageChangeCPI.png)
 
 ---
 
